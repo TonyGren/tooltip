@@ -1,0 +1,27 @@
+
+
+/*LAYOUT
+------------------------------------------------------------*/
+.contenedor{
+    width: 980px;
+    font-family: sans-serif;
+    margin:  200px auto;
+    font-size: 12px;
+    border: 1px solid #ccc;
+    padding: 20px;
+
+}
+
+
+/* TOOLTIP
+-------------------------------------------------------------------------------------*/
+.tooltip{
+    border: 1px solid #0000FF;
+    background-color: #FFFFFF;
+    font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    color: #669;
+    width: 40%;
+    position:absolute;
+    padding:15;
+}
